@@ -2,6 +2,7 @@ body{
     background-color: rgb(138, 185, 150);
     color: #f00c0c;
     font-family: Arial, sans-serif;
+    margin: 0;
 }
 
 header { 
@@ -14,20 +15,23 @@ header {
 h1 {
     font-size: 36px;
 }
+
 h2{
     color: #c5b3c1c9;
 }
+
 p {
     font-size: 18px;
     line-height: 1.6;
 }
+
 main {
     width: 80%;
     margin: auto;
 }
 
 section {
-    background-color: white;
+    background-color: rgb(235, 6, 6);
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
