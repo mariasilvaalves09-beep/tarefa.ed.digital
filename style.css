@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(138, 185, 150);
+    background-color: rgba(0, 139, 35, 0.76);
     color: #000000;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -38,7 +38,7 @@ nav a{
     display: inline-block;
 }
 nav a:hover {
-    background-color: rgba(0, 138, 73);
+    background-color: rgba(0, 138, 73)atualizei o styler;
 }
 main {
     width: 80%;
