@@ -31,14 +31,14 @@ nav{
 nav a{
     color: white;
     text-decoration: none;
-    background-color: rgb(195, 255, 160);
+    background-color: rgba(195, 255, 160, 0.616);
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
     display: inline-block;
 }
 nav a:hover {
-    background-color: rgb(195, 255, 160);
+    background-color: rgba(195, 255, 160, 0.61);
 }
 main {
     width: 80%;
