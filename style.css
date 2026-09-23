@@ -1,12 +1,12 @@
 body{
-    background-color: #BFE7D2;
+    background-color: #FF676D;
     color: #000000;
     font-family: Arial, sans-serif;
     margin: 0;
 }
 
 header { 
-    background-color: (#00a347);
+    background-color: (#FF4449);
     color: rgb(5, 0, 0);
     text-align: center;
     padding: 30px;
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2{
-    color: rgba(0, 139, 35, 0.76);
+    color: #FF676D;
 }
 
 p {
@@ -31,14 +31,14 @@ nav{
 nav a{
     color: white;
     text-decoration: none;
-    background-color: rgb(0, 138, 73);
+    background-color: #FF676D;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
     display: inline-block;
 }
 nav a:hover {
-    background-color: rgba(0, 138, 73);
+    background-color: #FF8992;
 }
 main {
     width: 80%;
@@ -71,7 +71,7 @@ figcaption {
     background-color:#e8f5e9;
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid #27a70081;
+    border-left: 6px solid #FF8992;
     border-radius: 10px;
 }
 
@@ -84,4 +84,20 @@ footer {
     text-align: center;
     padding: 20px;
     margin-top: 30px;
+}
+button{
+    background-color: #FF676D;
+    color:white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #FF8992
+}
+.curtir {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
 }
