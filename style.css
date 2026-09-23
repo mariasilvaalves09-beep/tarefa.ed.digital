@@ -1,11 +1,11 @@
-body{
+body {
     background-color: #C2E9BF;
     color: #000000;
     font-family: Arial, sans-serif;
     margin: 0;
 }
 
-header { 
+header {
     background-color: (#32af00);
     color: rgb(5, 0, 0);
     text-align: center;
@@ -16,7 +16,7 @@ h1 {
     font-size: 36px;
 }
 
-h2{
+h2 {
     color: #288f00;
 }
 
@@ -25,10 +25,11 @@ p {
     line-height: 1.6;
 }
 
-nav{
+nav {
     margin-top: 20px;
 }
-nav a{
+
+nav a {
     color: white;
     text-decoration: none;
     background-color: #105f00;
@@ -37,9 +38,11 @@ nav a{
     margin: 5px;
     display: inline-block;
 }
+
 nav a:hover {
     background-color: #a2fd9b;
 }
+
 main {
     width: 80%;
     margin: auto;
@@ -49,7 +52,7 @@ section {
     background-color: rgb(248, 247, 247);
     margin: 20px 0;
     padding: 20px;
-    border-radius: 12px; 
+    border-radius: 12px;
 }
 
 img {
@@ -67,8 +70,8 @@ figcaption {
     margin-top: 8px;
 }
 
-.card{
-    background-color:#e8f5e9;
+.card {
+    background-color: #e8f5e9;
     padding: 15px;
     margin: 15px 0;
     border-left: 6px solid #268600;
@@ -78,6 +81,7 @@ figcaption {
 .card h3 {
     margin-top: 0;
 }
+
 footer {
     background-color: #222222;
     color: white;
@@ -85,17 +89,20 @@ footer {
     padding: 20px;
     margin-top: 30px;
 }
-button{
+
+button {
     background-color: #06a700;
-    color:white;
+    color: white;
     border: none;
     padding: 10px 15px;
     border-radius: 8px;
     cursor: pointer;
 }
+
 button:hover {
-    background-color: #C2E9BF
+    background-color: #C2E9BF;
 }
+
 .curtir {
     display: block;
     width: fit-content;
