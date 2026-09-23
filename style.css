@@ -1,12 +1,12 @@
 body{
-    background-color: #FF676D;
+    background-color: #c5fda4;
     color: #000000;
     font-family: Arial, sans-serif;
     margin: 0;
 }
 
 header { 
-    background-color: (#fc1a21);
+    background-color: (#32af00);
     color: rgb(5, 0, 0);
     text-align: center;
     padding: 30px;
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2{
-    color: #FF676D;
+    color: #38c003;
 }
 
 p {
@@ -31,14 +31,14 @@ nav{
 nav a{
     color: white;
     text-decoration: none;
-    background-color: #f74147;
+    background-color: #105f00;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
     display: inline-block;
 }
 nav a:hover {
-    background-color: #FF8992;
+    background-color: #8dff89;
 }
 main {
     width: 80%;
@@ -71,7 +71,7 @@ figcaption {
     background-color:#e8f5e9;
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid #FF8992;
+    border-left: 6px solid #268600;
     border-radius: 10px;
 }
 
@@ -86,7 +86,7 @@ footer {
     margin-top: 30px;
 }
 button{
-    background-color: #FF676D;
+    background-color: #06a700;
     color:white;
     border: none;
     padding: 10px 15px;
@@ -94,7 +94,7 @@ button{
     cursor: pointer;
 }
 button:hover {
-    background-color: #FF8992
+    background-color: #aeff89
 }
 .curtir {
     display: block;
