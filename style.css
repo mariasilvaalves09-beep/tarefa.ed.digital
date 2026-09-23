@@ -1,5 +1,5 @@
 body{
-    background-color: #c5fda4;
+    background-color: #D8F3DC;
     color: #000000;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2{
-    color: #38c003;
+    color: #288f00;
 }
 
 p {
@@ -38,7 +38,7 @@ nav a{
     display: inline-block;
 }
 nav a:hover {
-    background-color: #8dff89;
+    background-color: #D8F3DC;
 }
 main {
     width: 80%;
@@ -94,7 +94,7 @@ button{
     cursor: pointer;
 }
 button:hover {
-    background-color: #aeff89
+    background-color: #D8F3DC
 }
 .curtir {
     display: block;
