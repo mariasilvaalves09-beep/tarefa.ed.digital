@@ -6,7 +6,7 @@ body{
 }
 
 header { 
-    background-color: (#FF4449);
+    background-color: (#fc1a21);
     color: rgb(5, 0, 0);
     text-align: center;
     padding: 30px;
@@ -31,7 +31,7 @@ nav{
 nav a{
     color: white;
     text-decoration: none;
-    background-color: #FF676D;
+    background-color: #f74147;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
