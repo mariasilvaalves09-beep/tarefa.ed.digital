@@ -13,15 +13,15 @@
 
 }
 body {
-    background-color: #C2E9BF;
-    color: #000000;
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
     font-family: Arial, sans-serif;
     margin: 0;
 }
 
 header {
-    background-color: (#2b9900);
-    color: rgb(5, 0, 0);
+    background-color: var(--cor-principal);
+    color: var(--cor-texto);
     text-align: center;
     padding: 30px;
 }
@@ -31,7 +31,7 @@ h1 {
 }
 
 h2 {
-    color: #288f00;
+    color: var(--cor-principal);
 }
 
 p {
@@ -44,9 +44,9 @@ nav {
 }
 
 nav a {
-    color: white;
+    color: var(--cor-clara);
     text-decoration: none;
-    background-color: #105f00;
+    background-color: var(--cor-secundaria);
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
@@ -54,7 +54,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #6db368;
+    background-color: var(--cor-hover);
 }
 
 main {
@@ -63,7 +63,7 @@ main {
 }
 
 section {
-    background-color: rgb(248, 247, 247);
+    background-color: var(--cor-superficie);
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
@@ -80,15 +80,15 @@ img {
 figcaption {
     text-align: center;
     font-size: 14px;
-    color: #555555;
+    color: var(--cor-legenda);
     margin-top: 8px;
 }
 
 .card {
-    background-color: #e8f5e9;
+    background-color: var(--cor-card);
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid #268600;
+    border-left: 6px solid var(--cor-principal);
     border-radius: 10px;
 }
 
@@ -97,16 +97,16 @@ figcaption {
 }
 
 footer {
-    background-color: #222222;
-    color: white;
+    background-color: var(--cor-rodape);
+    color: var(--cor-clara);
     text-align: center;
     padding: 20px;
     margin-top: 30px;
 }
 
 button {
-    background-color: #06a700;
-    color: white;
+    background-color: var(--cor-principal);
+    color: var(--cor-clara);
     border: none;
     padding: 10px 15px;
     border-radius: 8px;
@@ -114,7 +114,7 @@ button {
 }
 
 button:hover {
-    background-color: #C2E9BF;
+    background-color: var(--cor-hover);
 }
 
 .curtir {
