@@ -2,10 +2,10 @@
  :root{
 --cor-fundo:#C2E9BF;
 --cor-texto:#000000;
---cor-principal:#2c9901;
+--cor-principal:#529b35;
 --cor-secundaria:#105f00;
 --cor-hover:#6db368;
---cor-superficie:rgb(252, 249, 232);
+--cor-superficie:white;
 --cor-card:#e8f5e9;
 --cor-legenda:#555555;
 --cor-clara:white;
