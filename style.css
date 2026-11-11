@@ -1,15 +1,15 @@
 
  :root{
---cor-fundo:#64748b;
---cor-texto:#0000;
---cor-principal:#0f172a;
---cor-secundaria:#c8102e;
---cor-hover:#9b0920;
---cor-superficie:ffffff;
---cor-card:#5ca8f5;
---cor-legenda:#64748b;
+--cor-fundo:#121212;
+--cor-texto:#ffffff;
+--cor-principal:#181818;
+--cor-secundaria:#ee3333;
+--cor-hover:#b91c1c;
+--cor-superficie:#242424;
+--cor-card:#1e1e1e;
+--cor-legenda:#a1a1aa;
 --cor-clara:#ffffff;
---cor-rodape:#0f172a;
+--cor-rodape:#0d0d0d;
 
 }
 .tema-escuro{
